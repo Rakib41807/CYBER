@@ -30,8 +30,8 @@
   },
   "antiInbox": false,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
-  "prefix": "!",
+  "nickNameBot": "Rakibul",
+  "prefix": "/",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
